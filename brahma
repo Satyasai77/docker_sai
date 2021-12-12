@@ -1,0 +1,8 @@
+****************Bool Type Program Python**********************
+a = int(input("Enter a digit"))
+b = int(input("Enter  a value"))
+if a<b:
+    print("True")
+else:
+    print("False")
+
